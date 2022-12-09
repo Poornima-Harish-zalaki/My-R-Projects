@@ -5,7 +5,7 @@ In this project we have to analyse the consumer behaviour of purchasing patterns
 
 At the end of this project we will learn the following.
 
-Data transformation.
-Statistical interpretion of Data.
-Graphical interpretion of Data.
-Finding the correlation to analyse trends and patterns of business.
+#Data transformation.
+#Statistical interpretion of Data.
+#Graphical interpretion of Data.
+#Finding the correlation to analyse trends and patterns of business.
